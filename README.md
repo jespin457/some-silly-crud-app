@@ -12,7 +12,9 @@
   - GraphQL
   - tRPC
   - react-hook-form
-  - TanStack/query  
+  - TanStack/query
+  - zustand
+  - Storybook (for Unit Testing)
 
 - Very Important Things I Want To Do To Make This Repo Less Ugly
   - Disable pushing commits directly to `main` (THIS ONE IS ACTUALLY KIND OF IMPORTANT, DON'T YOU THINK?)
